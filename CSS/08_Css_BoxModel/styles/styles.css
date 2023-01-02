@@ -1,0 +1,32 @@
+.signin{
+    background-color:rgb(235, 234, 234) ;
+    padding: 20px;
+}
+.login{
+    background-color: rgb(208, 255, 255);
+    padding: 20px;
+    margin-left: 5px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.input{
+    padding: 10px;
+}
+.btn{
+ margin-left: 20px;
+ padding: 5px;
+ width: 150px;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+input{
+    border: none;
+    padding: 5px;
+    border-bottom: 5px solid black;
+}

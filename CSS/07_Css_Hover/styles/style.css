@@ -1,0 +1,38 @@
+button{
+  font-size: 50px; 
+  padding: 50px;
+}
+
+button:hover{
+    font-size: 24px;
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 10px;
+    width: 250px;
+    height: 100px;
+    border-style: none;
+
+}
+pre{
+    background-color: black;
+    color: cornsilk;
+   font-weight: 900;
+   font-size: 24px;
+}
+/* p:hover{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-transform: uppercase;
+    word-spacing: 50px;
+    text-indent: 10in;
+} */
+ul{
+    list-style: none;
+    line-height: 50px;
+}
+.para{
+    line-height: 50px;
+}
+
+
